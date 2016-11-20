@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-size: 14px;
+    line-height: 26px;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	padding: 50px;
+	background-color: #dcdcdc;
+}
+
+.container {
+  width: 940px;
+  margin: 10px auto;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+ul.a {
+    list-style-type: square;
+	font-size: 13px;
+	margin-bottom: 20px;
+}
